@@ -7,3 +7,5 @@ Primary contains settings for both light and dark backgrounds. It's is fun, very
 The Gui version uses the exact RGB codes from Google's logo. Primary on a 256-color terminal looks very similar and even 8-color terminals are supported.
 
 To check out the latest version or to contribute, visit the git repository: https://github.com/google/vim-colorscheme-primary
+
+Disclaimer: This is not an official Google product (experimental or otherwise), it is just code that happens to be owned by Google.
