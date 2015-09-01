@@ -2,10 +2,14 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=5160
 
 Primary is a Vim color scheme based on Google's colors. 
 
-Primary contains settings for both light and dark backgrounds. It's is fun, very readable, and Google-inspired.
+For SCREENSHOTS (and much more), see 
+https://github.com/google/vim-colorscheme-primary
 
-The Gui version uses the exact RGB codes from Google's logo. Primary on a 256-color terminal looks very similar and even 8-color terminals are supported.
+Primary contains settings for both light and dark backgrounds. It's is fun, 
+very readable, and Google-inspired.
 
-To check out the latest version or to contribute, visit the git repository: https://github.com/google/vim-colorscheme-primary
+The Gui version uses the exact RGB codes from Google's logo. Primary on a
+256-color terminal looks very similar and even 8-color terminals are supported.
 
-Disclaimer: This is not an official Google product (experimental or otherwise), it is just code that happens to be owned by Google.
+Disclaimer: This is not an official Google product (experimental or otherwise),
+it is just code that happens to be owned by Google.
